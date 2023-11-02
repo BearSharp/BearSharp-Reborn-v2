@@ -1,7 +1,6 @@
 # 🤖 BearSharp Reborn v2
 
-> [!NOTE]
-> ## **Acesse agora mesmo o nosso Discord!**
+## **Acesse agora mesmo o nosso Discord clicando [Aqui]**
 ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)
 
 ## 📝 **Descrição**
@@ -45,3 +44,4 @@ Informações de contato para os usuários obterem suporte ou enviarem feedback 
 ## 📜 Licença
 Informações sobre a licença sob a qual o seu bot está disponível.
 
+[Aqui]: https://discord.gg/GGXSD5cSYJ
