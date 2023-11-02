@@ -1,8 +1,10 @@
 # 🤖 BearSharp Reborn v2
 
 ## 📝 **Descrição**
-- ### Engine
-  - BearSharp Reborn v2 foi completamente otimizada para lidar com leituras de imagens convertidas em bytes[] em vez de pixels. Essa abordagem resulta em um aumento notável de desempenho do projeto e uma redução significativa no consumo de CPU durante a execução do BearSharp.
+- ### **Adeus OBS Studio!**
+ - Não requer o OBS Studio ou qualquer outro programa de terceiros para capturar a tela do Tibia Global. Todo o processo é realizado internamente por um Bypass desenvolvido especificamente para essa finalidade, o que resulta em uma velocidade superior em comparação com as bibliotecas tradicionais de captura de tela. Além disso, oferece maior segurança contra o BattlEye (O Bypass Perfeito!).
+- Desempenho otimizado e uso de CPU drásticamente reduzido ao trabalhar com imagens pré-carregadas convertidas em bytes[] (Diga adeus ao GetPixel!).
+- 
 
 ## ✨ Funcionalidades
 Lista das funcionalidades-chave do seu bot para o Tibia Global.
