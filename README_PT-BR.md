@@ -63,3 +63,5 @@
 
 [link]: https://www.youtube.com/@BearSharpOficial
 [Aqui]: https://discord.gg/GGXSD5cSYJ
+[ENG-US]: https://github.com/BearSharp/BearSharp-Reborn-v2/blob/Main/README.md
+[PT-BR]: 
