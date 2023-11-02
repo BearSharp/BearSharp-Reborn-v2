@@ -1,5 +1,8 @@
 # 🤖 BearSharp Reborn v2
 
+> [!NOTE]
+> ## **Acesse agora mesmo o nosso Discord!**
+
 ## 📝 **Descrição**
 - ### **🔒 Segurança Impecável!**
   - Sistemas de segurança e bypasses internos altamente avançados e constantemente atualizados garantindo segurança total ao utilizar o BearSharp no Tibia Global.
