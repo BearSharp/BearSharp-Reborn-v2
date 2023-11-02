@@ -1,37 +1,37 @@
 # 🤖 BearSharp Reborn v2
 
-- Você pode ler o conteúdo deste README em [ENG-US] ou [PT-BR].
+- You can read the content of this README in [ENG-US] or [PT-BR].
 
-## ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Acesse agora mesmo o nosso Discord clicando [Aqui]**
+## ![Discord Icon](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Access our Discord now by clicking [Here]**
 
-## 📝 **Descrição**
-- ### **🔒 Segurança Impecável!**
-  - Sistemas de segurança e bypasses internos altamente avançados e constantemente atualizados garantindo segurança total ao utilizar o BearSharp no Tibia Global.
-    - Utilize nosso bot com conforto e sem preocupações.
-- ### **👋 Elimine o OBS Studio!**
-  - Não é necessário utilizar o OBS Studio ou qualquer outro programa de terceiros para capturar a tela do Tibia Global. Todo o processo é executado internamente por um Bypass desenvolvido especificamente para essa finalidade, resultando em uma velocidade superior em comparação com as bibliotecas tradicionais de captura de tela. Além disso, oferece maior segurança contra o BattlEye.
-    - O Bypass Perfeito!
-- ### **⚡️ Desempenho Aprimorado | 💻 Uso de CPU Reduzido**
-  - Desempenho otimizado e uso drasticamente reduzido da CPU ao lidar com imagens pré-carregadas convertidas em bytes[].
-    - Diga adeus ao GetPixel!
-- ### **🛡️ Anti-Spam Avançado**
-  - Totalmente à prova de spams ou conjurações desnecessárias! Possuímos um sistema interno completo que simula fielmente os cooldowns e exhausts do Tibia Global, verifica custos de mana e muito mais! Tenha combos perfeitos sem esgotar ou spammar suas magias!
-    - Torne-se o jogador perfeito!
-- ### **🚀 Resposta Instantânea e Eficiente**
-  - Graças a todas as otimizações de alto nível e leituras extremamente rápidas, o tempo de resposta para ações do BearSharp é praticamente instantâneo! Os benchmarks realizados na máquina em que o BearSharp foi desenvolvido indicam um tempo de resposta de 0 a 4 milissegundos em nossos sistemas.
-    - Nunca mais sofra com combos rápidos que poderiam levar você à morte sem a nossa ferramenta!
+## 📝 **Description**
+- ### **🔒 Impeccable Security!**
+  - Highly advanced internal security systems and constantly updated bypasses ensuring complete security when using BearSharp in Tibia Global.
+    - Use our bot comfortably and without worries.
+- ### **👋 Eliminate OBS Studio!**
+  - There is no need to use OBS Studio or any other third-party program to capture the Tibia Global screen. The entire process is executed internally by a Bypass developed specifically for this purpose, resulting in superior speed compared to traditional screen capture libraries. Additionally, it provides greater security against BattlEye.
+    - The Perfect Bypass!
+- ### **⚡️ Enhanced Performance | 💻 Reduced CPU Usage**
+  - Optimized performance and drastically reduced CPU usage when dealing with preloaded images converted into bytes[].
+    - Say goodbye to GetPixel!
+- ### **🛡️ Advanced Anti-Spam**
+  - Completely immune to spams or unnecessary conjurations! We have a complete internal system that faithfully simulates cooldowns and exhausts from Tibia Global, checks mana costs, and much more! Have perfect combos without depleting or spamming your spells!
+    - Become the perfect player!
+- ### **🚀 Instant and Efficient Response**
+  - Thanks to all the high-level optimizations and extremely fast readings, the response time for BearSharp actions is practically instant! Benchmarks performed on the machine on which BearSharp was developed indicate a response time of 0 to 4 milliseconds on our systems.
+    - Never suffer again from quick combos that could lead you to death without our tool!
 
-## **✨ Funcionalidades**
+## **✨ Features**
 - **✔️ Healing**
-- **✔️ Targeting (Com opções de nome do alvo)**
-- **✔️ Cavebot (Com opções de Click Map e Walk WASD)**
-- **❌ Refiller (Em breve...)**
-- **❌ Npc Trader (Em breve...)**
-- **❌ Depositer (Em breve...)**
+- **✔️ Targeting (with target name options)**
+- **✔️ Cavebot (with Click Map and Walk WASD options)**
+- **❌ Refiller (Coming soon...)**
+- **❌ Npc Trader (Coming soon...)**
+- **❌ Depositer (Coming soon...)**
 - **✔️ Caster/Combo**
 - **✔️ Looting**
-- **✔️ Heal Friend (Com opções de Potion, UH, Exura Sio e Exura Gran Sio)**
-- **✔️ Haste/Ant-Paralyze**
+- **✔️ Heal Friend (with Potion, UH, Exura Sio, and Exura Gran Sio options)**
+- **✔️ Haste/Anti-Paralyze**
 - **✔️ Utamo/Exana**
 - **✔️ Cleaner (Exana Pox, Exana Kor, Exana Vis, etc...)**
 - **✔️ Safe Sender**
@@ -53,15 +53,15 @@
 - **✔️ Simulation Mode Menu**
 - **✔️ Humanizer**
 - **✔️ Enable/Disable Engine Works**
-- **✔️ Spells Menu (Para editar ou criar novas spells)**
-- **E muito mais!...**
+- **✔️ Spells Menu (to edit or create new spells)**
+- **And much more!...**
 
-## 🎯 Uso
-- **Você pode acessar nosso canal do Youtube e conferir os vídeos do BearSharp clicando neste [link].**
+## 🎯 Usage
+- **You can access our YouTube channel and check out BearSharp videos by clicking this [link].**
 
-## ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Acesse agora mesmo o nosso Discord clicando [Aqui]**
+## ![Discord Icon](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Access our Discord now by clicking [Here]**
 
-[link]: https://www.youtube.com/@BearSharpOficial
-[Aqui]: https://discord.gg/GGXSD5cSYJ
+[link]: https://www.youtube.com/@BearSharpOfficial
+[Here]: https://discord.gg/GGXSD5cSYJ
 [ENG-US]: https://github.com/BearSharp/BearSharp-Reborn-v2/blob/Main/README.md
 [PT-BR]: https://github.com/BearSharp/BearSharp-Reborn-v2/blob/Main/README_PT-BR.md
