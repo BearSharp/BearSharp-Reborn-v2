@@ -2,6 +2,8 @@
 
 ## ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Acesse agora mesmo o nosso Discord clicando [Aqui]**
 
+- Você pode ler o conteúdo deste README em [ENG-US] ou [PT-BR].
+
 ## 📝 **Descrição**
 - ### **🔒 Segurança Impecável!**
   - Sistemas de segurança e bypasses internos altamente avançados e constantemente atualizados garantindo segurança total ao utilizar o BearSharp no Tibia Global.
@@ -61,3 +63,5 @@
 
 [link]: https://www.youtube.com/@BearSharpOficial
 [Aqui]: https://discord.gg/GGXSD5cSYJ
+[ENG-US]: https://github.com/BearSharp/BearSharp-Reborn-v2/blob/Main/README.md
+[PT-BR]: https://github.com/BearSharp/BearSharp-Reborn-v2/blob/Main/README_PT-BR.md
