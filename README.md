@@ -1,7 +1,7 @@
 # 🤖 BearSharp Reborn v2
 
-## **Acesse agora mesmo o nosso Discord clicando [Aqui]**
 ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)
+## **Acesse agora mesmo o nosso Discord clicando [Aqui]**
 
 ## 📝 **Descrição**
 - ### **🔒 Segurança Impecável!**
