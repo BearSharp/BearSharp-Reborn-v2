@@ -2,7 +2,8 @@
 
 ## 📝 **Descrição**
 - ### **Elimine o OBS Studio!**
-  - Não é necessário utilizar o OBS Studio ou qualquer outro programa de terceiros para capturar a tela do Tibia Global. Todo o processo é executado internamente por um Bypass desenvolvido especificamente para essa finalidade, resultando em uma velocidade superior em comparação com as bibliotecas tradicionais de captura de tela. Além disso, oferece maior segurança contra o BattlEye (o Bypass Perfeito!).
+  - Não é necessário utilizar o OBS Studio ou qualquer outro programa de terceiros para capturar a tela do Tibia Global. Todo o processo é executado internamente por um Bypass desenvolvido especificamente para essa finalidade, resultando em uma velocidade superior em comparação com as bibliotecas tradicionais de captura de tela. Além disso, oferece maior segurança contra o BattlEye.
+    - O Bypass Perfeito!
 - ### **Desempenho Aprimorado | Uso de CPU Reduzido**
   - Desempenho otimizado e uso drasticamente reduzido da CPU ao lidar com imagens pré-carregadas convertidas em bytes[] (Diga adeus ao GetPixel!).
 - ### **Anti-Spam Avançado**
