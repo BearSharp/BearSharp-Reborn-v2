@@ -57,5 +57,7 @@
 ## 🎯 Uso
 - **Você pode acessar nosso canal do Youtube e conferir os vídeos do BearSharp clicando neste [link].**
 
+## ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png) **Acesse agora mesmo o nosso Discord clicando [Aqui]**
+
 [link]: https://www.youtube.com/@BearSharpOficial
 [Aqui]: https://discord.gg/GGXSD5cSYJ
