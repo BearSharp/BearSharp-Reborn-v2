@@ -55,22 +55,7 @@
 - **E muito mais!...**
 
 ## 🎯 Uso
-- **Você pode acessar nosso canal do Youtube e conferir os vídeos do BearSharp clicando através deste [link].**
-
-## ⚙️ Configuração
-Instruções detalhadas sobre como configurar e personalizar o comportamento do bot.
-
-## 📄 Documentação
-Links para a documentação completa do seu bot para o Tibia Global.
-
-## 🤝 Contribuição
-Informações sobre como os usuários podem contribuir para o desenvolvimento do bot.
-
-## 📬 Contato
-Informações de contato para os usuários obterem suporte ou enviarem feedback sobre o bot.
-
-## 📜 Licença
-Informações sobre a licença sob a qual o seu bot está disponível.
+- **Você pode acessar nosso canal do Youtube e conferir os vídeos do BearSharp clicando neste [link].**
 
 [link]: https://www.youtube.com/@BearSharpOficial
 [Aqui]: https://discord.gg/GGXSD5cSYJ
