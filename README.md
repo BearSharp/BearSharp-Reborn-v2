@@ -17,8 +17,8 @@
   - Graças a todas as otimizações de alto nível e leituras extremamente rápidas, o tempo de resposta para ações do BearSharp é praticamente instantâneo! Os benchmarks realizados na máquina em que o BearSharp foi desenvolvido indicam um tempo de resposta de 0 a 4 milissegundos em nossos sistemas.
     - Nunca mais sofra com combos rápidos que poderiam levar você à morte sem a nossa ferramenta!
 
-## ✨ Funcionalidades
-Lista das funcionalidades-chave do seu bot para o Tibia Global.
+## **✨ Funcionalidades**
+- ✔️ Healing
 
 ## 🚀 Instalação
 Instruções claras sobre como instalar e configurar o bot para uso.
