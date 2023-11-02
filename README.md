@@ -20,21 +20,36 @@
     - Nunca mais sofra com combos rápidos que poderiam levar você à morte sem a nossa ferramenta!
 
 ## **✨ Funcionalidades**
-- ✔️ **Healing**
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
-- ✔️ Healing
+- **✔️ Healing**
+- **✔️ Targeting**
+- **✔️ Cavebot**
+- **✔️ Caster/Combo**
+- **✔️ Looting**
+- **✔️ Heal Friend**
+- **✔️ Haste/Ant-Paralyze**
+- **✔️ Utamo/Exana**
+- **✔️ Cleaner**
+- **✔️ Safe Sender**
+- **✔️ Ring/Amulet Swap**
+- **✔️ Auto Food**
+- **✔️ Buffer**
+- **✔️ Alert**
+- **✔️ Scripting System**
+- **✔️ In-Game Screen Helper**
+- **✔️ Game Projector**
+- **✔️ Stats Viewer**
+- **✔️ Benchmark Menu**
+- **✔️ Extras**
+- **✔️ Map Analyzer**
+- **✔️ Performance Settings**
+- **✔️ General Hotkeys**
+- **✔️ Priority Order Changer**
+- **✔️ Additional Delays Changer**
+- **✔️ Simulation Mode Menu**
+- **✔️ Humanizer**
+- **✔️ Enable/Disable Engine Works**
+- **✔️ Spells Menu (Para editar ou criar novas spells)**
+- **E muito mais!...**
 
 ## 🚀 Instalação
 Instruções claras sobre como instalar e configurar o bot para uso.
