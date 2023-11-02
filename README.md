@@ -21,14 +21,17 @@
 
 ## **✨ Funcionalidades**
 - **✔️ Healing**
-- **✔️ Targeting**
-- **✔️ Cavebot**
+- **✔️ Targeting (Com opções de nome do alvo)**
+- **✔️ Cavebot (Com opções de Click Map e Walk WASD)**
+- **❌ Refiller (Em breve...)**
+- **❌ Npc Trader (Em breve...)**
+- **❌ Depositer (Em breve...)**
 - **✔️ Caster/Combo**
 - **✔️ Looting**
-- **✔️ Heal Friend**
+- **✔️ Heal Friend (Com opções de Potion, UH, Exura Sio e Exura Gran Sio)**
 - **✔️ Haste/Ant-Paralyze**
 - **✔️ Utamo/Exana**
-- **✔️ Cleaner**
+- **✔️ Cleaner (Exana Pox, Exana Kor, Exana Vis, etc...)**
 - **✔️ Safe Sender**
 - **✔️ Ring/Amulet Swap**
 - **✔️ Auto Food**
@@ -51,11 +54,8 @@
 - **✔️ Spells Menu (Para editar ou criar novas spells)**
 - **E muito mais!...**
 
-## 🚀 Instalação
-Instruções claras sobre como instalar e configurar o bot para uso.
-
 ## 🎯 Uso
-Demonstração prática de como usar o bot para o Tibia Global.
+- **Você pode acessar nosso canal do Youtube e conferir os vídeos do BearSharp clicando através deste [link].**
 
 ## ⚙️ Configuração
 Instruções detalhadas sobre como configurar e personalizar o comportamento do bot.
@@ -72,4 +72,5 @@ Informações de contato para os usuários obterem suporte ou enviarem feedback 
 ## 📜 Licença
 Informações sobre a licença sob a qual o seu bot está disponível.
 
+[link]: https://www.youtube.com/@BearSharpOficial
 [Aqui]: https://discord.gg/GGXSD5cSYJ
