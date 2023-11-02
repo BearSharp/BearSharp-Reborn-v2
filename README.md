@@ -1,6 +1,6 @@
 # 🤖 BearSharp Reborn v2
 
-## 📝 Descrição
+## 📝 **Descrição**
 - Engine
   - BearSharp Reborn v2 foi completamente otimizada para lidar com leituras de imagens convertidas em bytes[] em vez de pixels. Essa abordagem resulta em um aumento notável de desempenho do projeto e uma redução significativa no consumo de CPU durante a execução do BearSharp.
 
