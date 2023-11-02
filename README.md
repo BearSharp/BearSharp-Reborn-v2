@@ -20,6 +20,20 @@
     - Nunca mais sofra com combos rápidos que poderiam levar você à morte sem a nossa ferramenta!
 
 ## **✨ Funcionalidades**
+- [✔️] Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
+- ✔️ Healing
 - ✔️ Healing
 
 ## 🚀 Instalação
