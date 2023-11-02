@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > ## **Acesse agora mesmo o nosso Discord!**
-> ![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)
+![Ícone do Discord](https://cdn.icon-icons.com/icons2/2108/PNG/48/discord_icon_130958.png)
 
 ## 📝 **Descrição**
 - ### **🔒 Segurança Impecável!**
