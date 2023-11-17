@@ -34,7 +34,7 @@
 - **✔️ Haste/Anti-Paralyze**
 - **✔️ Utamo/Exana**
 - **✔️ Cleaner (Exana Pox, Exana Kor, Exana Vis, etc...)**
-- **✔️ Safe Sender**
+- **✔️ Smart Dispatcher**
 - **✔️ Ring/Amulet Swap**
 - **✔️ Auto Food**
 - **✔️ Buffer**
